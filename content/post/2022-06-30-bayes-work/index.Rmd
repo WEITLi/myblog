@@ -161,6 +161,7 @@ json <- createJSON(phi = pol_ldavis$phi,
 
 serVis(json, out.dir = "vis")
 ```
+## Networdk3D
 
 ```{r message=FALSE, warning=FALSE}
 library(networkD3)
